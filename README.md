@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Abrar Hosny
+							👋 Hi, I’m Abrar Hosny
 - 🔭 I am a Junior at Faculty of Computers & Informatics at Suez Canal University.
 - 👀 I’m interested in web development 
 - 🌱 I’m currently learning FrontEnd 
