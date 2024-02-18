@@ -1,4 +1,7 @@
-- 👋 Hi, I’m Abrar Hosny
+#  👋Hi there , I’m Abrar Hosny
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=I+am+a+Computer+Scinece+student;Web+Develober;Comptative+programming;Software+Engineering;&font=Fira%20Code&center=true&size=30&width=600&height=150&duration=4000&pause=1000">
+</p>
 - 🔭 I am a Senior at Faculty of Computers & Informatics at Suez Canal University.
 - 👀 I’m interested in web development 
 - 🌱 I’m currently learning FrontEnd with React.js & Computer Science
