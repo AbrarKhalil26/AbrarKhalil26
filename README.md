@@ -1,7 +1,6 @@
 
 <h1 align='center'>Hi 👋 , I’m Abrar Khalil</h1> 
 
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=I+am+a+Computer+Scinece+student;Web+Develober;Comptative+programming;Software+Engineering;&font=Fira%20Code&center=true&size=30&width=600&height=150&duration=4000&pause=1000">
 </p>
@@ -20,5 +19,6 @@
 ## <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="10%"> Connect with me
 <p align="left">
   <a href='https://www.linkedin.com/in/abrarkhalil26/' target='_blank'><img  height="30" width="40" align="center" src='https://www.svgrepo.com/show/57106/linkedin.svg' alt='Linked_in'/></a>
-  <a href=''></a>
+  <a href='https://www.facebook.com/basma.star.789/' target='_blank'><img  height="30" width="40" align="center" src='https://pixlok.com/wp-content/uploads/2021/12/Facebook-Icon-9imsd.png' alt='Facebook'/></a>
+  <a href='' target='_blank'><img  height="30" width="40" align="center" src='https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/WhatsApp.svg/767px-WhatsApp.svg.png' alt='whatsapp'/></a>
 </p>
