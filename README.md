@@ -47,7 +47,7 @@
   &emsp;
   <a href="#"> <img width="60" alt="React" src="https://techstack-generator.vercel.app/react-icon.svg"></a> 
   &emsp;
-  <a href="#"> <img width="60" alt="React-Router" src="https://www.svgrepo.com/show/354262/react-router.svg"></a> 
+  <a href="#"> <img width="60" alt="React-Router" src="https://miro.medium.com/v2/resize:fit:512/1*0FyDA9f-ncxV0eK7OqtR9A.png"></a> 
   &emsp;
   <a href="#"> <img width="60" alt="Redux" src="https://techstack-generator.vercel.app/redux-icon.svg"></a>
   &emsp;
