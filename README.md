@@ -29,7 +29,7 @@
 ### <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width=5%> Programming languages
 <p align="center"> 
   <a href="#""> 
-    <img width="60" alt="C" src="https://cdn.iconscout.com/icon/free/png-256/c-programming-569564.png">
+    <img width="50" alt="C" src="https://cdn.iconscout.com/icon/free/png-256/c-programming-569564.png">
   </a> 
   &emsp;
   <a href="#"> 
