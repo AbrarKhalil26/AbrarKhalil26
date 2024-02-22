@@ -38,10 +38,12 @@
   <a href="#"> <img width="60" alt="Python" src="https://techstack-generator.vercel.app/python-icon.svg"></a>
 </p>
 
-### <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width=5%> Frontend Development
+### <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width=5%>  Frontend Development
 <p align="center"> 
   &emsp;
   <a href="#"> <img width="60" alt="JavaScript" src="https://techstack-generator.vercel.app/js-icon.svg"></a>
+  &emsp;
+  <a href="#"> <img width="60" alt="ES6" src="https://ih1.redbubble.net/image.438907151.6117/st,small,507x507-pad,600x600,f8f8f8.u1.jpg"></a>
   &emsp;
   <a href="#"> <img width="60" alt="React" src="https://techstack-generator.vercel.app/react-icon.svg"></a> 
   &emsp;
