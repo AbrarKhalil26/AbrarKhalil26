@@ -98,7 +98,12 @@
 <details><summary><h3> 🔥 Streak Stats</h3></summary>
 
 ----	
-
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=AbrarKhalil26&theme=dark&date_format=M%20j%5B%2C%20Y%5D" alt="Abrar" /></p>
+</details>
 
+
+<details><summary><h3>💻 GitHub Profile Stats</h3></summary>
+
+----
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 </details>
