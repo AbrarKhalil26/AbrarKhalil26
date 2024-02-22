@@ -106,6 +106,6 @@
 <details><summary><h3>💻 GitHub Profile Stats</h3></summary>
   
 ----
-  <img alt='myStats' width='49%' src='https://github-readme-stats.vercel.app/api?username=AbrarKhalil26&show_icons=true&theme=tokyonight'/>
-  <img align='left' width='30%' alt='TopLanguage' src='https://github-readme-stats.vercel.app/api/top-langs/?username=AbrarKhalil26&layout=compact'/>
+  <img align='left' width='49%' alt='myStats' src='https://github-readme-stats.vercel.app/api?username=AbrarKhalil26&show_icons=true&theme=tokyonight'/>
+  <img align='right' width='30%' alt='TopLanguage' src='https://github-readme-stats.vercel.app/api/top-langs/?username=AbrarKhalil26&layout=compact'/>
 </details>
