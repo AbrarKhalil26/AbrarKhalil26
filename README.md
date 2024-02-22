@@ -18,6 +18,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href='https://www.linkedin.com/in/abrarkhalil26/' target='_blank'><img  height="30" width="40" align="center" src='https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg' alt='Linked_in'/></a>
+  <a href='https://www.linkedin.com/in/abrarkhalil26/' target='_blank'><img  height="30" width="40" align="center" src='https://cdn.pixabay.com/photo/2017/12/06/04/57/linkedin-3000959_1280.png' alt='Linked_in'/></a>
   <a href=''></a>
 </p>
