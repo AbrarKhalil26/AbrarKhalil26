@@ -30,27 +30,22 @@
 <p align="center"> 
   <a href="https://www.cprogramming.com/" target="_blank"> 
     <img width="40" alt="C" src="https://e7.pngegg.com/pngimages/724/306/png-clipart-c-logo-c-programming-language-icon-letter-c-blue-logo.png">
-    C
   </a> 
   &emsp;
   <a href="https://www.w3schools.com/cpp/" target="_blank"> 
     <img width="40" alt="C++" src="https://techstack-generator.vercel.app/cpp-icon.svg">
-    C++
   </a> 
   &emsp;
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
      <img width="40" alt="JavaScript" src="https://techstack-generator.vercel.app/js-icon.svg">
-    JavaScript
    </a>
   &emsp;
   <a href="https://www.java.com" target="_blank"> 
     <img width="40" alt="Java" src="https://github.com/AbrarKhalil26/AbrarKhalil26/assets/102384647/82af49f5-7920-4b17-b67d-cf7dafdfe36e">
-    java
   </a>
   &emsp;
    <a href="https://www.python.org" target="_blank">
     <img width="40" alt="Python" src="https://techstack-generator.vercel.app/python-icon.svg">
-     python
   </a>
 </p>
 
