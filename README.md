@@ -51,7 +51,7 @@
   &emsp;
   <a href="#"> <img width="60" alt="API" src="https://github.com/AbrarKhalil26/AbrarKhalil26/assets/102384647/378440fb-3f51-4a4d-83be-050c215352db"></a>
   &emsp;
-  <a href="#"> <img width="60" alt="Axios" src="https://www.pngfind.com/pngs/m/62-627407_axios-logo-hd-png-download.png"></a>
+  <a href="#"> <img width="60" alt="Axios" src="https://github.com/AbrarKhalil26/AbrarKhalil26/assets/102384647/bd9f57fd-ad57-41a1-bbd2-08f928adb168"></a>
   &emsp;
   <a href="#"> <img width="60" alt="Tailwind" src="https://skillicons.dev/icons?i=tailwind"></a>
   &emsp;
