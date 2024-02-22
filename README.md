@@ -80,4 +80,6 @@
   <a href="#"> <img width="60" alt="Jira" src="https://github.com/AbrarKhalil26/AbrarKhalil26/assets/102384647/08b53dd1-3eee-45ee-8b21-53d844578d98"></a>
   &emsp;
   <a href="#"> <img width="60" alt="Chat-gpt" src="https://github.com/AbrarKhalil26/AbrarKhalil26/assets/102384647/e3c93e79-3d06-4c3f-bace-90dca31befdd"></a>
+  &emsp;
+  <a href="#"> <img width="60" alt="Firebase" src="https://cdn4.iconfinder.com/data/icons/google-i-o-2016/512/google_firebase-2-512.png"></a>
  </p>
