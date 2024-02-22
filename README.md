@@ -28,24 +28,29 @@
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="3%"> My Skills
 ### <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width=5%> Programming languages
 <p align="center"> 
-  <a href="#""> 
-    <img width="50" alt="C" src="https://cdn.iconscout.com/icon/free/png-256/c-programming-569564.png">
-  </a> 
   &emsp;
-  <a href="#"> 
-    <img width="60" alt="C++" src="https://techstack-generator.vercel.app/cpp-icon.svg">
-  </a> 
+  <a href="#"> <img width="60" alt="C++" src="https://techstack-generator.vercel.app/cpp-icon.svg"></a> 
   &emsp;
-  <a href="#"> 
-     <img width="60" alt="JavaScript" src="https://techstack-generator.vercel.app/js-icon.svg">
-   </a>
+  <a href="#"> <img width="60" alt="JavaScript" src="https://techstack-generator.vercel.app/js-icon.svg"></a>
   &emsp;
-  <a href="#"> 
-    <img width="60" alt="Java" src="https://cdn-icons-png.flaticon.com/128/5968/5968282.png">
-  </a>
+  <a href="#"> <img width="60" alt="Java" src="https://cdn-icons-png.flaticon.com/128/5968/5968282.png"></a>
   &emsp;
-   <a href="#">
-    <img width="60" alt="Python" src="https://techstack-generator.vercel.app/python-icon.svg">
-  </a>
+  <a href="#"> <img width="60" alt="Python" src="https://techstack-generator.vercel.app/python-icon.svg"></a>
 </p>
 
+### <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width=5%> Frontend Development
+<p align="center"> 
+  &emsp;
+  <a href="#"> <img width="60" alt="JavaScript" src="https://techstack-generator.vercel.app/js-icon.svg"></a>
+  &emsp;
+  <a href="#"> <img width="60" alt="React" src="https://techstack-generator.vercel.app/react-icon.svg"></a> 
+  &emsp;
+  <a href="#"> <img width="60" alt="Redux" src="https://techstack-generator.vercel.app/redux-icon.svg"></a>
+  &emsp;
+  <a href="#"> <img width="60" alt="Tailwind" src="https://skillicons.dev/icons?i=tailwind"></a>
+  &emsp;
+  <a href="#"> <img width="60" alt="Bootstrap" src="https://github.com/AbrarKhalil26/AbrarKhalil26/assets/102384647/08fb9595-7cba-4ecc-af2a-0596f0d38542"></a>
+  &emsp;
+  <a href="#"> <img width="60" alt="MaterialUI" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg"></a>
+  
+</p>
