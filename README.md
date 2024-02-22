@@ -40,46 +40,54 @@
 
 ### <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width=5%>  Frontend Development
 <p align="center"> 
-  &emsp;
-  <a href="#"> <img width="60" alt="HTML5" src="https://github.com/AbrarKhalil26/AbrarKhalil26/assets/102384647/2744d95d-a6f2-4e51-ae58-8a2c8264447b"></a>
-  &emsp;
-  <a href="#"> <img width="60" alt="CSS3" src="https://github.com/AbrarKhalil26/AbrarKhalil26/assets/102384647/d44cf943-b132-4502-88ff-64e93d08f8e5"></a>
-  &emsp;
-  <a href="#"> <img width="70" alt="JavaScript" src="https://techstack-generator.vercel.app/js-icon.svg"></a>
-  &emsp;
-  <a href="#"> <img width="60" alt="ES6" src="https://ih1.redbubble.net/image.438907151.6117/st,small,507x507-pad,600x600,f8f8f8.u1.jpg"></a>
-  &emsp;
-  <a href="#"> <img width="60" alt="JSON" src="https://github.com/AbrarKhalil26/AbrarKhalil26/assets/102384647/2a4c60e1-4fc0-4962-9349-fdb241ab06af"></a>
-  &emsp;
-  <a href="#"> <img width="60" alt="React" src="https://techstack-generator.vercel.app/react-icon.svg"></a> 
-  &emsp;
-  <a href="#"> <img width="60" alt="React-Router" src="https://miro.medium.com/v2/resize:fit:512/1*0FyDA9f-ncxV0eK7OqtR9A.png"></a> 
-  &emsp;
-  <a href="#"> <img width="60" alt="Redux" src="https://techstack-generator.vercel.app/redux-icon.svg"></a>
-  &emsp;
-  <a href="#"> <img width="60" alt="API" src="https://github.com/AbrarKhalil26/AbrarKhalil26/assets/102384647/378440fb-3f51-4a4d-83be-050c215352db"></a>
-  &emsp;
-  <a href="#"> <img width="60" alt="Axios" src="https://github.com/AbrarKhalil26/AbrarKhalil26/assets/102384647/bd9f57fd-ad57-41a1-bbd2-08f928adb168"></a>
-  &emsp;
-  <a href="#"> <img width="60" alt="Tailwind" src="https://skillicons.dev/icons?i=tailwind"></a>
-  &emsp;
-  <a href="#"> <img width="60" alt="Bootstrap" src="https://github.com/AbrarKhalil26/AbrarKhalil26/assets/102384647/08fb9595-7cba-4ecc-af2a-0596f0d38542"></a>
-  &emsp;
-  <a href="#"> <img width="60" alt="MaterialUI" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg"></a>
+    &emsp;
+    <a href="#"> <img width="60" alt="HTML5" src="https://github.com/AbrarKhalil26/AbrarKhalil26/assets/102384647/2744d95d-a6f2-4e51-ae58-8a2c8264447b"></a>
+    &emsp;
+    <a href="#"> <img width="60" alt="CSS3" src="https://github.com/AbrarKhalil26/AbrarKhalil26/assets/102384647/d44cf943-b132-4502-88ff-64e93d08f8e5"></a>
+    &emsp;
+    <a href="#"> <img width="70" alt="JavaScript" src="https://techstack-generator.vercel.app/js-icon.svg"></a>
+    &emsp;
+    <a href="#"> <img width="60" alt="ES6" src="https://ih1.redbubble.net/image.438907151.6117/st,small,507x507-pad,600x600,f8f8f8.u1.jpg"></a>
+    &emsp;
+    <a href="#"> <img width="60" alt="JSON" src="https://github.com/AbrarKhalil26/AbrarKhalil26/assets/102384647/2a4c60e1-4fc0-4962-9349-fdb241ab06af"></a>
+    &emsp;
+    <a href="#"> <img width="60" alt="React" src="https://techstack-generator.vercel.app/react-icon.svg"></a> 
+    &emsp;
+    <a href="#"> <img width="60" alt="React-Router" src="https://miro.medium.com/v2/resize:fit:512/1*0FyDA9f-ncxV0eK7OqtR9A.png"></a> 
+    &emsp;
+    <a href="#"> <img width="60" alt="Redux" src="https://techstack-generator.vercel.app/redux-icon.svg"></a>
+    &emsp;
+    <a href="#"> <img width="60" alt="API" src="https://github.com/AbrarKhalil26/AbrarKhalil26/assets/102384647/378440fb-3f51-4a4d-83be-050c215352db"></a>
+    &emsp;
+    <a href="#"> <img width="60" alt="Axios" src="https://github.com/AbrarKhalil26/AbrarKhalil26/assets/102384647/bd9f57fd-ad57-41a1-bbd2-08f928adb168"></a>
+    &emsp;
+    <a href="#"> <img width="60" alt="Tailwind" src="https://skillicons.dev/icons?i=tailwind"></a>
+    &emsp;
+    <a href="#"> <img width="60" alt="Bootstrap" src="https://github.com/AbrarKhalil26/AbrarKhalil26/assets/102384647/08fb9595-7cba-4ecc-af2a-0596f0d38542"></a>
+    &emsp;
+    <a href="#"> <img width="60" alt="MaterialUI" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg"></a>
 </p>
 
  ### <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width=5%>  Software & Tools
  <p align="center"> 
-  &emsp;
-  <a href="#"> <img width="60" alt="Git" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png"></a>
-  &emsp;
-  <a href="#"> <img width="60" alt="Github" src="https://techstack-generator.vercel.app/github-icon.svg"></a>
-  &emsp;
-  <a href="#"> <img width="60" alt="JSON" src="https://github.com/AbrarKhalil26/AbrarKhalil26/assets/102384647/2a4c60e1-4fc0-4962-9349-fdb241ab06af"></a>
-  &emsp;
-  <a href="#"> <img width="60" alt="Jira" src="https://github.com/AbrarKhalil26/AbrarKhalil26/assets/102384647/08b53dd1-3eee-45ee-8b21-53d844578d98"></a>
-  &emsp;
-  <a href="#"> <img width="60" alt="Chat-gpt" src="https://github.com/AbrarKhalil26/AbrarKhalil26/assets/102384647/e3c93e79-3d06-4c3f-bace-90dca31befdd"></a>
-  &emsp;
-  <a href="#"> <img width="60" alt="Firebase" src="https://cdn4.iconfinder.com/data/icons/google-i-o-2016/512/google_firebase-2-512.png"></a>
+    &emsp;
+    <a href="#"> <img width="60" alt="Git" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png"></a>
+    &emsp;
+    <a href="#"> <img width="60" alt="Github" src="https://techstack-generator.vercel.app/github-icon.svg"></a>
+    &emsp;
+    <a href="#"> <img width="60" alt="JSON" src="https://github.com/AbrarKhalil26/AbrarKhalil26/assets/102384647/2a4c60e1-4fc0-4962-9349-fdb241ab06af"></a>
+    &emsp;
+    <a href="#"> <img width="60" alt="Jira" src="https://github.com/AbrarKhalil26/AbrarKhalil26/assets/102384647/08b53dd1-3eee-45ee-8b21-53d844578d98"></a>
+    &emsp;
+    <a href="#"> <img width="60" alt="Chat-gpt" src="https://github.com/AbrarKhalil26/AbrarKhalil26/assets/102384647/e3c93e79-3d06-4c3f-bace-90dca31befdd"></a>
+    &emsp;
+    <a href="#"> <img width="60" alt="Firebase" src="https://cdn4.iconfinder.com/data/icons/google-i-o-2016/512/google_firebase-2-512.png"></a>
  </p>
+
+ ### <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/IDEs.gif?raw=true" width=5%> IDEs
+  <p align="center"> 
+    &emsp;
+    <a href="#"> <img width="60" alt="vscode" src="https://skillicons.dev/icons?i=vscode"></a>
+    &emsp;
+    <a href="#"> <img width="60" alt="jetbrains" src="https://resources.jetbrains.com/storage/products/company/brand/logos/jb_beam.png"></a>
+  </p>
