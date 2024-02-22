@@ -109,3 +109,16 @@
   <img align='left' width='49%' alt='myStats' src='https://github-readme-stats.vercel.app/api?username=AbrarKhalil26&show_icons=true&theme=tokyonight'/>
   <img align='right' width='35%' alt='TopLanguage' src='https://github-readme-stats.vercel.app/api/top-langs/?username=AbrarKhalil26&layout=compact'/>
 </details>
+
+
+<details><summary><h3> :open_file_folder: My Repositories </h3></summary>
+
+----
+	
+<div>
+  <p align="center">
+  	<a href="https://github.com/7oSkaaa/LeetCode_DailyChallenge_2023">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=AbrarKhalil26&repo=Food_Project&theme=tokyonight" alt="GitHub Stats" />
+    </a>
+  </p>
+</div>
