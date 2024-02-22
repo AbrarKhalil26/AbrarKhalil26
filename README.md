@@ -16,8 +16,8 @@
 - 📫 How to reach me **abrarkhalil135@gmail.com**
 
 
-<h4 align="left">Connect with me:</h4>
-<p>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
   <a href='https://www.linkedin.com/in/abrarkhalil26/' target='_blank' alt='linked-in'></a>
   <a href=''></a>
 </p>
