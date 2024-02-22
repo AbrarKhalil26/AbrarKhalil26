@@ -78,4 +78,6 @@
   <a href="#"> <img width="60" alt="JSON" src="https://github.com/AbrarKhalil26/AbrarKhalil26/assets/102384647/2a4c60e1-4fc0-4962-9349-fdb241ab06af"></a>
   &emsp;
   <a href="#"> <img width="60" alt="Jira" src="https://github.com/AbrarKhalil26/AbrarKhalil26/assets/102384647/08b53dd1-3eee-45ee-8b21-53d844578d98"></a>
+  &emsp;
+  <a href="#"> <img width="60" alt="Chat-gpt" src="https://github.com/AbrarKhalil26/AbrarKhalil26/assets/102384647/e3c93e79-3d06-4c3f-bace-90dca31befdd"></a>
  </p>
