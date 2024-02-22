@@ -109,7 +109,7 @@
 <p align="center">
   &emsp;
   <img alt='myStats' src='https://github-readme-stats.vercel.app/api?username=AbrarKhalil26&show_icons=true&theme=tokyonight'/>
-  &emsp;
+  &emsp;&emsp;
   <img alt='TopLanguage' src='https://github-readme-stats.vercel.app/api/top-langs/?username=AbrarKhalil26&layout=compact'/>
 </p>
 </details>
