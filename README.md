@@ -1,4 +1,7 @@
-#  👋Hi there , I’m Abrar Hosny
+
+<h1 align='center'>Hi 👋 , I’m Abrar Hosny</h1> 
+
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=I+am+a+Computer+Scinece+student;Web+Develober;Comptative+programming;Software+Engineering;&font=Fira%20Code&center=true&size=30&width=600&height=150&duration=4000&pause=1000">
 </p>
