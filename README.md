@@ -117,8 +117,23 @@
 	
 <div>
   <p align="center">
-  	<a href="https://github.com/7oSkaaa/LeetCode_DailyChallenge_2023">
+    <a href="https://github.com/AbrarKhalil26/Food_Project">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=AbrarKhalil26&repo=Food_Project&theme=tokyonight" alt="GitHub Stats" />
+    </a>
+    <a href="https://github.com/AbrarKhalil26/Flight-Booking">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=AbrarKhalil26&repo=Flight-Booking&theme=tokyonight" alt="GitHub Stats" />
+    </a>
+    <a href="https://github.com/AbrarKhalil26/Netbook">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=AbrarKhalil26&repo=Netbook&theme=tokyonight" alt="GitHub Stats" />
+    </a>
+    <a href="https://github.com/AbrarKhalil26/Social-Media-Circuit">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=AbrarKhalil26&repo=Social-Media-Circuit&theme=tokyonight" alt="GitHub Stats" />
+    </a>
+    <a href="https://github.com/AbrarKhalil26/Events">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=AbrarKhalil26&repo=Events&theme=tokyonight" alt="GitHub Stats" />
+    </a>
+    <a href="https://github.com/AbrarKhalil26/Age-Calculator-Application">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=AbrarKhalil26&repo=Age-Calculator-Application&theme=tokyonight" alt="GitHub Stats" />
     </a>
   </p>
 </div>
