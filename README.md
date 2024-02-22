@@ -41,7 +41,7 @@
    </a>
   &emsp;
   <a href="#"> 
-    <img width="60" alt="Java" src="https://e7.pngegg.com/pngimages/724/306/png-clipart-c-logo-c-programming-language-icon-letter-c-blue-logo.png">
+    <img width="60" alt="Java" src="https://cdn-icons-png.flaticon.com/128/5968/5968282.png">
   </a>
   &emsp;
    <a href="#">
