@@ -19,6 +19,7 @@
 ## <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="10%"> Connect with me
 <p align="center">
   <a href='https://www.linkedin.com/in/abrarkhalil26/' target='_blank'><img  height="30" width="30" align="center" src='https://www.svgrepo.com/show/57106/linkedin.svg' alt='Linked_in'/></a>
-  <a href='https://www.facebook.com/basma.star.789/' target='_blank'><img  height="40" width="40" align="center" src='https://pixlok.com/wp-content/uploads/2021/12/Facebook-Icon-9imsd.png' alt='Facebook'/></a>
+  <a href='https://www.facebook.com/basma.star.789/' target='_blank'><img  height="40" width="40" align="center" src='![image](https://github.com/AbrarKhalil26/AbrarKhalil26/assets/102384647/b51791c5-e641-4f67-8e60-05a8ab0ccb9f)
+' alt='Facebook'/></a>
   <a href='' target='_blank'><img  height="40" width="40" align="center" src='https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/WhatsApp.svg/767px-WhatsApp.svg.png' alt='whatsapp'/></a>
 </p>
