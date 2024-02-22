@@ -18,6 +18,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href='https://www.linkedin.com/in/abrarkhalil26/' target='_blank'><img  height="30" width="40" align="center" src='https://www.google.com/imgres?imgurl=https%3A%2F%2Fcdn.pixabay.com%2Fphoto%2F2017%2F12%2F06%2F04%2F57%2Flinkedin-3000959_1280.png&tbnid=T7HGsWyEfWeZ4M&vet=10CAIQxiAoAGoXChMImPzcjKS_hAMVAAAAAB0AAAAAEAc..i&imgrefurl=https%3A%2F%2Fpixabay.com%2Fvectors%2Flinkedin-linkedin-icon-linkedin-logo-3000959%2F&docid=joJcHzKNENjxyM&w=1280&h=1280&itg=1&q=Linkedin%20icon%20SVG&ved=0CAIQxiAoAGoXChMImPzcjKS_hAMVAAAAAB0AAAAAEAc](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxER0j3bH_VFB431KNIG1oS5D64dq2w4VT0IhicFetyomiyF3hdRjdT004d9qrYpRvguE&usqp=CAU)https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxER0j3bH_VFB431KNIG1oS5D64dq2w4VT0IhicFetyomiyF3hdRjdT004d9qrYpRvguE&usqp=CAU' alt=''/></a>
+  <a href='https://www.linkedin.com/in/abrarkhalil26/' target='_blank'><img  height="30" width="40" align="center" src='https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg' alt='Linked_in'/></a>
   <a href=''></a>
 </p>
