@@ -64,5 +64,11 @@
   <a href="#"> <img width="60" alt="Bootstrap" src="https://github.com/AbrarKhalil26/AbrarKhalil26/assets/102384647/08fb9595-7cba-4ecc-af2a-0596f0d38542"></a>
   &emsp;
   <a href="#"> <img width="60" alt="MaterialUI" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg"></a>
-  
 </p>
+
+ ### <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width=5%>  Software & Tools
+ <p align="center"> 
+  &emsp;
+  <a href="#"> <img width="60" alt="Git" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png"></a>
+
+ </p>
