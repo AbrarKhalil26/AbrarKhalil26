@@ -51,6 +51,8 @@
     &emsp;
     <a href="#"> <img width="60" alt="JSON" src="https://github.com/AbrarKhalil26/AbrarKhalil26/assets/102384647/2a4c60e1-4fc0-4962-9349-fdb241ab06af"></a>
     &emsp;
+    <a href="#"> <img width="60" alt="NPM" src="https://static-00.iconduck.com/assets.00/npm-icon-2048x2048-8sw7kisf.png"></a>
+    &emsp;
     <a href="#"> <img width="60" alt="React" src="https://techstack-generator.vercel.app/react-icon.svg"></a> 
     &emsp;
     <a href="#"> <img width="60" alt="React-Router" src="https://miro.medium.com/v2/resize:fit:512/1*0FyDA9f-ncxV0eK7OqtR9A.png"></a> 
