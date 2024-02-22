@@ -49,6 +49,8 @@
   &emsp;
   <a href="#"> <img width="60" alt="ES6" src="https://ih1.redbubble.net/image.438907151.6117/st,small,507x507-pad,600x600,f8f8f8.u1.jpg"></a>
   &emsp;
+  <a href="#"> <img width="60" alt="JSON" src="https://github.com/AbrarKhalil26/AbrarKhalil26/assets/102384647/2a4c60e1-4fc0-4962-9349-fdb241ab06af"></a>
+  &emsp;
   <a href="#"> <img width="60" alt="React" src="https://techstack-generator.vercel.app/react-icon.svg"></a> 
   &emsp;
   <a href="#"> <img width="60" alt="React-Router" src="https://miro.medium.com/v2/resize:fit:512/1*0FyDA9f-ncxV0eK7OqtR9A.png"></a> 
@@ -70,5 +72,10 @@
  <p align="center"> 
   &emsp;
   <a href="#"> <img width="60" alt="Git" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png"></a>
-
+  &emsp;
+  <a href="#"> <img width="60" alt="Github" src="https://techstack-generator.vercel.app/github-icon.svg"></a>
+  &emsp;
+  <a href="#"> <img width="60" alt="JSON" src="https://github.com/AbrarKhalil26/AbrarKhalil26/assets/102384647/2a4c60e1-4fc0-4962-9349-fdb241ab06af"></a>
+  &emsp;
+  <a href="#"> <img width="60" alt="Jira" src="https://github.com/AbrarKhalil26/AbrarKhalil26/assets/102384647/08b53dd1-3eee-45ee-8b21-53d844578d98"></a>
  </p>
