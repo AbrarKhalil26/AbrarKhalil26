@@ -84,6 +84,8 @@
     <a href="#"> <img width="40" alt="Chat-gpt" src="https://github.com/AbrarKhalil26/AbrarKhalil26/assets/102384647/e3c93e79-3d06-4c3f-bace-90dca31befdd"></a>
     &emsp;
     <a href="#"> <img width="40" alt="Firebase" src="https://cdn4.iconfinder.com/data/icons/google-i-o-2016/512/google_firebase-2-512.png"></a>
+    &emsp;
+    <a href="#"> <img width="40" alt="Matlab" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Matlab_Logo.png/1144px-Matlab_Logo.png"></a>
  </p>
 
  ### <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/IDEs.gif?raw=true" width=5%> IDEs
