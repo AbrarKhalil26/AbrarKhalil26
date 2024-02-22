@@ -105,5 +105,5 @@
 <details><summary><h3>💻 GitHub Profile Stats</h3></summary>
 
 ----
-  <img alt='myStats' src='https://github-readme-stats.vercel.app/api?username=AbrarKhalil26&show_icons=true&theme=transparent'/>
+  <img alt='myStats' src='https://github-readme-stats.vercel.app/api?username=AbrarKhalil26&show_icons=true&theme=tokyonight'/>
 </details>
