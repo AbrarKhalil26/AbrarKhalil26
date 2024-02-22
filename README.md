@@ -31,7 +31,7 @@
   &emsp;
   <a href="#"> <img width="60" alt="C++" src="https://techstack-generator.vercel.app/cpp-icon.svg"></a> 
   &emsp;
-  <a href="#"> <img width="60" alt="JavaScript" src="https://techstack-generator.vercel.app/js-icon.svg"></a>
+  <a href="#"> <img width="70" alt="JavaScript" src="https://techstack-generator.vercel.app/js-icon.svg"></a>
   &emsp;
   <a href="#"> <img width="60" alt="Java" src="https://cdn-icons-png.flaticon.com/128/5968/5968282.png"></a>
   &emsp;
@@ -41,7 +41,7 @@
 ### <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width=5%>  Frontend Development
 <p align="center"> 
   &emsp;
-  <a href="#"> <img width="60" alt="JavaScript" src="https://techstack-generator.vercel.app/js-icon.svg"></a>
+  <a href="#"> <img width="70" alt="JavaScript" src="https://techstack-generator.vercel.app/js-icon.svg"></a>
   &emsp;
   <a href="#"> <img width="60" alt="ES6" src="https://ih1.redbubble.net/image.438907151.6117/st,small,507x507-pad,600x600,f8f8f8.u1.jpg"></a>
   &emsp;
