@@ -33,13 +33,17 @@
   &emsp;
   <a href="#"> <img width="70" alt="JavaScript" src="https://techstack-generator.vercel.app/js-icon.svg"></a>
   &emsp;
-  <a href="#"> <img width="60" alt="Java" src="https://cdn-icons-png.flaticon.com/128/5968/5968282.png"></a>
+  <a href="#"> <img width="60" alt="Java" src="https://techstack-generator.vercel.app/java-icon.svg"></a>
   &emsp;
   <a href="#"> <img width="60" alt="Python" src="https://techstack-generator.vercel.app/python-icon.svg"></a>
 </p>
 
 ### <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width=5%>  Frontend Development
 <p align="center"> 
+  &emsp;
+  <a href="#"> <img width="60" alt="HTML5" src="https://github.com/AbrarKhalil26/AbrarKhalil26/assets/102384647/2744d95d-a6f2-4e51-ae58-8a2c8264447b"></a>
+  &emsp;
+  <a href="#"> <img width="60" alt="CSS3" src="https://github.com/AbrarKhalil26/AbrarKhalil26/assets/102384647/d44cf943-b132-4502-88ff-64e93d08f8e5"></a>
   &emsp;
   <a href="#"> <img width="70" alt="JavaScript" src="https://techstack-generator.vercel.app/js-icon.svg"></a>
   &emsp;
