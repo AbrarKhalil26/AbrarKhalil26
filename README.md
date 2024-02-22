@@ -23,5 +23,29 @@
   <a href='' target='_blank'><img  height="40" width="40" align="center" src='https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/WhatsApp.svg/767px-WhatsApp.svg.png' alt='Whatsapp'/></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href='mailto:abrarkhalil135@gmail.com' target='_blank'><img  height="40" width="40" align="center" src='https://github.com/AbrarKhalil26/AbrarKhalil26/blob/main/images/gmail.png' alt='Gmail'/></a>&nbsp;&nbsp;&nbsp;&nbsp;
     <a href='https://github.com/AbrarKhalil26' target='_blank'><img  height="40" width="40" align="center" src='https://static-00.iconduck.com/assets.00/github-icon-2048x1988-jzvzcf2t.png' alt='GitHub'/></a>&nbsp;&nbsp;
-
 </p>
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="3%"> My Skills
+### <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width=5%> Programming languages
+<p align="center"> 
+  <a href="https://www.cprogramming.com/" target="_blank"> 
+    <img alt="C" src="https://e7.pngegg.com/pngimages/724/306/png-clipart-c-logo-c-programming-language-icon-letter-c-blue-logo.png">
+  </a> 
+  &emsp;
+  <a href="https://www.w3schools.com/cpp/" target="_blank"> 
+    <img alt="C++" src="https://techstack-generator.vercel.app/cpp-icon.svg">
+  </a> 
+  &emsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
+     <img alt="JavaScript" src="https://techstack-generator.vercel.app/js-icon.svg">
+   </a>
+  &emsp;
+  <a href="https://www.java.com" target="_blank"> 
+    <img alt="Java" src="https://github.com/AbrarKhalil26/AbrarKhalil26/assets/102384647/82af49f5-7920-4b17-b67d-cf7dafdfe36e">
+  </a>
+  &emsp;
+   <a href="https://www.python.org" target="_blank">
+    <img alt="Python" src="https://techstack-generator.vercel.app/python-icon.svg">
+  </a>
+</p>
+
