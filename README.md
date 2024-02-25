@@ -120,7 +120,6 @@
     <a href="https://github.com/AbrarKhalil26/YouTube-Project">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=AbrarKhalil26&repo=YouTube-Project&theme=tokyonight" alt="GitHub Stats" />
     </a>
-  &emsp;
   <p align="center">
     <a href="https://github.com/AbrarKhalil26/Fitness-Project">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=AbrarKhalil26&repo=Fitness-Project&theme=tokyonight" alt="GitHub Stats" />
