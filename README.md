@@ -11,7 +11,7 @@
   
 - 👀 I’m interested in web development
   
-- 🌱 I’m currently learning **FrontEnd with React.js & Computer Science**
+- 🌱 I am currently developing myself as **FullStack Developer (React.js, Node.js)**
   
 - 📫 How to reach me **abrarkhalil135@gmail.com**
 
