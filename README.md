@@ -47,19 +47,19 @@
     &emsp;
     <a href="#"> <img width="60" alt="JavaScript" src="https://techstack-generator.vercel.app/js-icon.svg"></a>
     &emsp;
-    <a href="#"> <img width="40" alt="ES6" src="https://ih1.redbubble.net/image.438907151.6117/st,small,507x507-pad,600x600,f8f8f8.u1.jpg"></a>
-    &emsp;
     <a href="#"> <img width="40" alt="JSON" src="https://github.com/AbrarKhalil26/AbrarKhalil26/assets/102384647/2a4c60e1-4fc0-4962-9349-fdb241ab06af"></a>
     &emsp;
-    <a href="#"> <img width="40" alt="NPM" src="https://static-00.iconduck.com/assets.00/npm-icon-2048x2048-8sw7kisf.png"></a>
+    <a href="#"> <img width="40" alt="NPM" src="https://img.icons8.com/?size=96&id=24895&format=png"></a>
     &emsp;
     <a href="#"> <img width="40" alt="React" src="https://techstack-generator.vercel.app/react-icon.svg"></a> 
     &emsp;
-    <a href="#"> <img width="40" alt="React-Router" src="https://miro.medium.com/v2/resize:fit:512/1*0FyDA9f-ncxV0eK7OqtR9A.png"></a> 
+    <a href="#" width="40>
+		<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 180 180" width="18"><mask height="180" id=":r8:mask0_408_134" maskUnits="userSpaceOnUse" width="180" x="0" y="0" style="mask-type: alpha;"><circle cx="90" cy="90" fill="black" r="90"></circle></mask><g mask="url(#:r8:mask0_408_134)"><circle cx="90" cy="90" data-circle="true" fill="black" r="90"></circle><path d="M149.508 157.52L69.142 54H54V125.97H66.1136V69.3836L139.999 164.845C143.333 162.614 146.509 160.165 149.508 157.52Z" fill="url(#:r8:paint0_linear_408_134)"></path><rect fill="url(#:r8:paint1_linear_408_134)" height="72" width="12" x="115" y="54"></rect></g><defs><linearGradient gradientUnits="userSpaceOnUse" id=":r8:paint0_linear_408_134" x1="109" x2="144.5" y1="116.5" y2="160.5"><stop stop-color="white"></stop><stop offset="1" stop-color="white" stop-opacity="0"></stop></linearGradient><linearGradient gradientUnits="userSpaceOnUse" id=":r8:paint1_linear_408_134" x1="121" x2="120.799" y1="54" y2="106.875"><stop stop-color="white"></stop><stop offset="1" stop-color="white" stop-opacity="0"></stop></linearGradient></defs></svg>
+	</a> 
     &emsp;
     <a href="#"> <img width="40" alt="Redux" src="https://techstack-generator.vercel.app/redux-icon.svg"></a>
     &emsp;
-    <a href="#"> <img width="40" alt="API" src="https://github.com/AbrarKhalil26/AbrarKhalil26/assets/102384647/378440fb-3f51-4a4d-83be-050c215352db"></a>
+    <a href="#"> <img width="40" alt="Rest API" src="https://img.icons8.com/?size=100&id=21888&format=png"></a>
     &emsp;
     <a href="#"> <img width="40" alt="Axios" src="https://github.com/AbrarKhalil26/AbrarKhalil26/assets/102384647/bd9f57fd-ad57-41a1-bbd2-08f928adb168"></a>
     &emsp;
@@ -68,6 +68,8 @@
     <a href="#"> <img width="40" alt="Bootstrap" src="https://github.com/AbrarKhalil26/AbrarKhalil26/assets/102384647/08fb9595-7cba-4ecc-af2a-0596f0d38542"></a>
     &emsp;
     <a href="#"> <img width="40" alt="MaterialUI" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg"></a>
+    &emsp;
+    <a href="#"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" class="size-5"><rect width="256" height="256" fill="none"></rect><line x1="208" y1="128" x2="128" y2="208" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="32"></line><line x1="192" y1="40" x2="40" y2="192" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="32"></line></svg></a>
 </p>
 
  ### <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width=5%>  Software & Tools
