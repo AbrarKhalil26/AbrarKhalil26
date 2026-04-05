@@ -68,6 +68,32 @@
   <a href="https://ui.shadcn.com/"><img src="https://ui.shadcn.com/favicon.ico" width="40"/></a>
 </p>
 
+### <img src="https://cdn-icons-png.flaticon.com/128/2721/2721297.png" width="5%"> Backend Development
+<p align="center"> 
+	&emsp;
+  <a href="https://nodejs.org/"> <img width="40" alt="Node.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"></a>
+	&emsp;
+  <a href="https://expressjs.com/"> <img width="40" alt="Express.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"></a>
+	&emsp;
+  <a href="#"> <img width="40" alt="REST API" src="https://cdn-icons-png.flaticon.com/128/2165/2165004.png"></a>
+	&emsp;
+  <a href="#"> <img width="40" alt="API Integration" src="https://cdn-icons-png.flaticon.com/128/1006/1006771.png"></a>
+	&emsp;
+  <a href="https://jwt.io/"> <img width="40" alt="JWT" src="https://cdn-icons-png.flaticon.com/128/919/919833.png"></a>
+	&emsp;
+  <a href="https://oauth.net/2/"> <img width="40" alt="OAuth 2.0" src="https://cdn-icons-png.flaticon.com/128/888/888879.png"></a>
+	&emsp;
+  <a href="https://www.mysql.com/"> <img width="40" alt="MySQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"></a>
+	&emsp;
+  <a href="https://www.mongodb.com/"> <img width="40" alt="MongoDB" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"></a>
+	&emsp;
+  <a href="https://mongoosejs.com/"> <img width="40" alt="Mongoose" src="https://cdn-icons-png.flaticon.com/128/919/919836.png"></a>
+	&emsp;
+  <a href="https://redis.io/"> <img width="40" alt="Redis" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg"></a>
+	&emsp;
+  <a href="https://firebase.google.com/"> <img width="40" alt="Firebase" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg"></a>
+</p>
+
 ### <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width=5%>  Software & Tools
  <p align="center"> 
     &emsp;
