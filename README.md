@@ -55,12 +55,16 @@
 	&emsp;
   <a href="#"> <img width="40" alt="Next.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"></a>
 	&emsp;
-  <a href="#"> <img width="40" alt="Next.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"></a>
-	<a href="https://redux-toolkit.js.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="40"/></a>
-  <a href="https://tanstack.com/query"><img src="https://react-query.tanstack.com/img/logo.svg" width="40"/></a>
-  <a href="https://tailwindcss.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="40"/></a>
+  <a href="https://redux-toolkit.js.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="40"/></a>
+	&emsp;
+  <a href="https://tanstack.com/query"><img src="https://files.svgcdn.io/logos/react-query-icon.svg" width="40"/></a>
+	&emsp;
   <a href="https://getbootstrap.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40"/></a>
+	&emsp;
+  <a href="https://tailwindcss.com/"><img src="https://img.icons8.com/?size=96&id=x7XMNGh2vdqA&format=png" width="40"/></a>
+	&emsp;
   <a href="https://mui.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" width="40"/></a>
+	&emsp;
   <a href="https://ui.shadcn.com/"><img src="https://ui.shadcn.com/favicon.ico" width="40"/></a>
 </p>
 
