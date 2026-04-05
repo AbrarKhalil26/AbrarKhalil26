@@ -39,10 +39,30 @@
 </p>
 
 ### <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width=5%>  Frontend Development
-- HTML5, CSS3, JavaScript (ES6+), TypeScript  
-- jQuery, React.js, Next.js  
-- Redux Toolkit, React Query  
-- TailwindCSS, Bootstrap, Material UI, Shadcn/ui
+<p align="center"> 
+	&emsp;
+  <a href="#"> <img width="40" alt="html5" src="https://cdn-icons-png.flaticon.com/128/1051/1051277.png"></a>
+	&emsp;
+  <a href="#"> <img width="40" alt="css" src="https://cdn-icons-png.flaticon.com/128/732/732190.png"></a>
+	&emsp;
+  <a href="#"> <img width="40" alt="js" src="https://cdn-icons-png.flaticon.com/128/5968/5968292.png"></a>
+	&emsp;
+  <a href="#"> <img width="40" alt="ts" src="https://cdn-icons-png.flaticon.com/128/5968/5968381.png"></a>
+	&emsp;
+  <a href="#"> <img width="40" alt="jQuery" src="https://img.icons8.com/?size=160&id=HKNzD81eiiSc&format=png"></a>
+	&emsp;
+  <a href="#"> <img width="40" alt="React.js" src="https://cdn-icons-png.flaticon.com/128/1126/1126012.png"></a>
+	&emsp;
+  <a href="#"> <img width="40" alt="Next.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"></a>
+	&emsp;
+  <a href="#"> <img width="40" alt="Next.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"></a>
+	<a href="https://redux-toolkit.js.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="40"/></a>
+  <a href="https://tanstack.com/query"><img src="https://react-query.tanstack.com/img/logo.svg" width="40"/></a>
+  <a href="https://tailwindcss.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="40"/></a>
+  <a href="https://getbootstrap.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40"/></a>
+  <a href="https://mui.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" width="40"/></a>
+  <a href="https://ui.shadcn.com/"><img src="https://ui.shadcn.com/favicon.ico" width="40"/></a>
+</p>
 
 ### <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width=5%>  Software & Tools
  <p align="center"> 
