@@ -33,6 +33,7 @@
   <img width="40" title="HTML5" src="https://cdn-icons-png.flaticon.com/128/1051/1051277.png"/>&emsp;
   <img width="40" title="CSS3" src="https://cdn-icons-png.flaticon.com/128/732/732190.png"/>&emsp;
   <img width="40" title="JavaScript" src="https://techstack-generator.vercel.app/js-icon.svg"/>&emsp;
+  <img width="40" title="jQuery" src="https://img.icons8.com/?size=160&id=HKNzD81eiiSc&format=png"/>&emsp;
   <img width="40" title="TypeScript" src="https://cdn-icons-png.flaticon.com/128/5968/5968381.png"/>&emsp;
   <img width="40" title="React.js" src="https://cdn-icons-png.flaticon.com/128/1126/1126012.png"/>&emsp;
   <img width="40" title="Next.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"/>&emsp;
@@ -41,6 +42,7 @@
   <img width="40" title="TailwindCSS" src="https://img.icons8.com/?size=96&id=x7XMNGh2vdqA&format=png"/>&emsp;
   <img width="40" title="Bootstrap" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"/>&emsp;
   <img width="40" title="Material UI" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg"/>
+  <img width="40" title="Shadcn UI" src="https://ui.shadcn.com/favicon.ico"/>
 </p>
 
 ### ⚙️ Backend
