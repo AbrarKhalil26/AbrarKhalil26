@@ -1,21 +1,18 @@
-<h1 align="center">
+<h1 align='center'>Hi 👋 , I’m Abrar Khalil</h1> 
+<p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Hi+%F0%9F%91%8B+I'm+Abrar+Khalil;Full+Stack+Developer;React+%7C+Next.js+%7C+Node.js;Always+learning%2C+always+building&font=Fira+Code&center=true&size=28&width=600&height=100&duration=4000&pause=1000" />
-</h1>
-
+</p>
 <img align="right" alt="Coding" width="380" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif"/>
 
-## 🧑‍💻 About Me
-
+## <img src = "https://i.pinimg.com/originals/3f/7e/4e/3f7e4eff7c96e9fe4b8b4b1ff3f7bdb5.gif" width = 5.5%> About me
 - 🎓 **Pre-Master's in Computer Science** @ Suez Canal University
 - 🚀 Currently leveling up via **Full Stack course @ Route Academy**
 - 💼 **Full Stack Developer** — React, Next.js, Node.js, Express
 - 🏆 ICPC Competitive Programmer (2021 & 2022)
 - 📫 Reach me at **abrarkhalil135@gmail.com**
 
----
 
 ## 🌐 Connect with Me
-
 <p align="center">
   <a href="https://www.linkedin.com/in/abrarkhalil26/" target="_blank">
     <img height="40" width="40" src="https://img.icons8.com/?size=96&id=13930&format=png" alt="LinkedIn"/>
@@ -28,7 +25,6 @@
   </a>
 </p>
 
----
 
 ## 🛠️ Tech Stack
 
@@ -68,7 +64,6 @@
   <img width="40" title="VS Code" src="https://skillicons.dev/icons?i=vscode"/>
 </p>
 
----
 
 ## 🚀 Featured Projects
 
@@ -136,21 +131,8 @@
   </tr>
 </table>
 
----
 
 ## 📊 GitHub Stats
-
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=AbrarKhalil26&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbrarKhalil26&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=AbrarKhalil26&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"/>
-</p>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AbrarKhalil26&label=Profile%20Views&color=0e75b6&style=flat"/>
 </p>
